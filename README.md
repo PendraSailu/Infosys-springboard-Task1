@@ -6,16 +6,17 @@ This app lets you upload a **CSV** or **JSON** file, preview the dataset, and vi
 ## Project Structure  
 Task1/
 ├── data/
-│   ├── raw/               
-│   └── processed/         
+│   ├── raw/                
+│   └── processed/          
 ├── notebooks/             
 ├── src/
 │   ├── data_processing.py  
-│   └── utils.py           
-├── streamlit_app.py       
+│   └── utils.py            
+├── streamlit_app.py        
 ├── requirements.txt        
-├── README.md               
-└── assets/                
+├── README.md              
+└── assets/                 
+          
 
 ## Features  
 - Upload **CSV** or **JSON** files  
