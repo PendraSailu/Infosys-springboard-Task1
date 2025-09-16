@@ -7,16 +7,16 @@ This app lets you upload a **CSV** or **JSON** file, preview the dataset, and vi
 
 Task1/
 ├── data/
-│ ├── raw/
-│ └── processed/
-├── notebooks/
+│   ├── raw/                # Original datasets
+│   └── processed/          # Cleaned datasets
+├── notebooks/              # Jupyter notebooks for exploration
 ├── src/
-│ ├── data_processing.py
-│ └── utils.py
-├── streamlit_app.py
-├── requirements.txt
-├── README.md
-└── assets/           
+│   ├── data_processing.py  # Functions for loading/cleaning data
+│   └── utils.py            # Helper functions
+├── streamlit_app.py        # Main Streamlit dashboard
+├── requirements.txt        # Dependencies
+├── README.md               # Documentation
+└── assets/                 # (Optional) Project logo / images        
           
 
 ## Features  
