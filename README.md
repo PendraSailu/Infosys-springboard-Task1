@@ -3,19 +3,20 @@
 A simple data exploration project built with **Streamlit**.  
 This app lets you upload a **CSV** or **JSON** file, preview the dataset, and view basic information.  
 
-## Project Structure  
+## Project Structure 
+
 Task1/
 ├── data/
-│   ├── raw/                
-│   └── processed/          
-├── notebooks/             
+│ ├── raw/
+│ └── processed/
+├── notebooks/
 ├── src/
-│   ├── data_processing.py  
-│   └── utils.py            
-├── streamlit_app.py        
-├── requirements.txt        
-├── README.md              
-└── assets/                 
+│ ├── data_processing.py
+│ └── utils.py
+├── streamlit_app.py
+├── requirements.txt
+├── README.md
+└── assets/           
           
 
 ## Features  
